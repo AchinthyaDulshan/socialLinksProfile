@@ -1,6 +1,5 @@
 import image from '../images/avatar-jessica.jpeg';
 
-
 const ProfileCard = () => {
 
     const profile =
@@ -9,11 +8,11 @@ const ProfileCard = () => {
         from: "London, United Kingdom",
         interests: '"Front-end developer and avid reader."',
         links: [
-            { media: "GitHub", link: "#" },
-            { media: "  Frontend Mentor", link: "#" },
-            { media: "  LinkedIn", link: "#" },
-            { media: "  Twitter", link: "#" },
-            { media: "  Instagram", link: "#" },
+            { media: "GitHub", link: "/" },
+            { media: "  Frontend Mentor", link: "/" },
+            { media: "  LinkedIn", link: "/" },
+            { media: "  Twitter", link: "/" },
+            { media: "  Instagram", link: "/" },
         ]
     };
 
